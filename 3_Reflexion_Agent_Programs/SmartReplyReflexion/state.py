@@ -5,7 +5,7 @@ class ReflexionState(TypedDict):
 
     customer_message: str
     company_policy: str
-    default_response: str
+    draft_response: str
     latest_feedback: str
 
     # Store feedbacks from all failed attempts
