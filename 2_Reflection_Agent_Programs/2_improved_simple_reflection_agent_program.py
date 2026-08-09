@@ -130,7 +130,7 @@ def improve_answer(state: ReflectionState):
 # 6. Decide What Happens After Reflection
 # --------------------------------------------------
 
-def should_continue(state: ReflectionState) -> Literal["improve", "__ind__"]:
+def should_continue(state: ReflectionState) -> Literal["improve", "__end__"]:
     # Stop if the reflection agent says
     # the answer is already good
     if state["is_good"]:
