@@ -170,7 +170,7 @@ builder.add_conditional_edges(
     "reflect",
     should_continue,
     {
-        "reflect": "reflect",
+        "generate": "generate",
         END : END
     }
 )
