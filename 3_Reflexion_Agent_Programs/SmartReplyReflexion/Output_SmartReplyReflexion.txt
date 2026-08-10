@@ -1,0 +1,20 @@
+
+============================================================
+FINAL RESPONSE
+============================================================
+Hi there, I’m sorry your speaker stopped charging. Since you reported this within 30 days, it’s eligible for a full refund.
+
+Please share your order number so we can locate the purchase and start the refund process. Once approved, the refund will be sent to your original payment method.
+
+Thanks—I’ll take care of this as soon as I have the order number.
+
+============================================================
+REFLEXION SUMMARY
+============================================================
+Approved: True
+Attempts: 1
+
+Lessons collected:
+No revisions were required.
+
+Process finished with exit code 0
