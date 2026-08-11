@@ -7,6 +7,10 @@ from state import AgentState
 from nodes import generate_answer, review_answer, revise_answer
 from tools import search_company_policy, get_order_status
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 MAX_ATTEMPTS = 3
 
 
