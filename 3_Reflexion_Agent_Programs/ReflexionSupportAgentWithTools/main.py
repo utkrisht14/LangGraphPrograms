@@ -4,7 +4,6 @@ from graph import graph
 
 load_dotenv()
 
-print("API_KEY=os.getenv('OPENAI_API_KEY')")
 
 def main():
     question = """ 
